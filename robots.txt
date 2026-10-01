@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kkyomotov-reze.github.io/chilltime-anime-x-game/sitemap.xml
