@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-<urlset
-xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
->
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>
-https://kkyomotov-reze.github.io/chilltime-anime-x-game/
-</loc>
+<loc>https://kkyomotov-reze.github.io/chilltime-anime-x-game/</loc>
 </url>
-
 <url>
-<loc>
-https://kkyomotov-reze.github.io/chilltime-anime-x-game/info/chilltime-anime-game.html
-</loc>
+<loc>https://kkyomotov-reze.github.io/chilltime-anime-x-game/info/chilltime-anime-game.html</loc>
 </url>
-
 </urlset>
